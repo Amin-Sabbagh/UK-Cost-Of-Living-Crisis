@@ -1,0 +1,7 @@
+In this submission file there are two folders and the presentation.
+
+The first folder is the code, which is in ipynb files, and the excel sheets needed to run them. Jupyter notebook is needed to open and run them.
+
+The code is also available as view only in the html folder.
+
+The presentation is the presentation intend to show my work with.
